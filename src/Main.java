@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         
-        Televisao tv = new Televisao(80, "Philips", 220, 30);
+        Televisao tv = new Televisao(80, "Philip", 220, 30);
 
 
         tv.status();
